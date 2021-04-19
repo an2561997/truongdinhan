@@ -1,0 +1,27 @@
+* {
+    margin: 4px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+span {
+    background-color: rgb(219, 53, 81);
+    padding: 4px 12px;
+    width: 100px;
+    height: 30px;
+    display: inline-block;
+    text-align: center;
+}
+
+span:hover {
+    background-color: green;
+}
+
+.menu {
+    width: 100px;
+    height: 30px;
+}
+
+.menu-vertical {
+    display: block;
+}
